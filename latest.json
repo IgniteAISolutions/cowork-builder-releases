@@ -1,0 +1,18 @@
+{
+  "product": "cowork-builder",
+  "latest": "0.5.3",
+  "released": "2026-10-09",
+  "releases": [
+    {
+      "version": "0.5.3",
+      "date": "2026-10-09",
+      "notes": "A monthly update check tells the owner when a new release is waiting, and Team setups can sync from GitHub so updates arrive on their own."
+    },
+    {
+      "version": "0.5.2",
+      "date": "2026-10-07",
+      "notes": "A writing check stops AI-sounding drafts, every timed job runs in the cloud, and the weekly reads have their own jobs."
+    }
+  ],
+  "withdrawn": []
+}
